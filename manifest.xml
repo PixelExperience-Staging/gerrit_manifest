@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- General repos -->
+  <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
+  <project path="manifest" name="manifest" remote="pixel" />
+</manifest>
