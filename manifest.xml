@@ -3,4 +3,5 @@
   <!-- General repos -->
   <project path="gerrit_manifest" name="gerrit_manifest" remote="pixel" />
   <project path="manifest" name="manifest" remote="pixel" />
+  <project path="vendor_aosp" name="vendor_aosp" remote="pixel" />
 </manifest>
