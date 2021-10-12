@@ -98,6 +98,7 @@
   <project path="platform_testing" name="platform_testing" remote="pixel" />
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel" />
+  <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel" />
   <project path="vendor/google-customization" name="vendor_google-customization" remote="pixel" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
 
