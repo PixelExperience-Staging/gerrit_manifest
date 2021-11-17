@@ -159,6 +159,7 @@
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="pixel" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="pixel" />
+  <project path="packages/modules/adb" name="packages_modules_adb" remote="pixel" />
   <project path="packages/modules/CaptivePortalLogin" name="packages_modules_CaptivePortalLogin" remote="pixel" />
   <project path="packages/modules/DnsResolver" name="packages_modules_DnsResolver" remote="pixel" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="pixel" />
@@ -192,6 +193,7 @@
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="pixel" />
   <project path="external/libtextclassifier" name="external_libtextclassifier" remote="pixel" />
   <project path="external/motorola/faceunlock-res" name="external_motorola_faceunlock-res" remote="pixel" />
+  <project path="external/mksh" name="external_mksh" remote="pixel" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="pixel" />
   <project path="external/openssh" name="external_openssh" remote="pixel" />
   <project path="external/perfetto" name="external_perfetto" remote="pixel" />
@@ -228,6 +230,7 @@
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="pixel" />
   <project path="system/keymaster" name="system_keymaster" remote="pixel" />
   <project path="system/libufdt" name="system_libufdt" remote="pixel" />
+  <project path="system/libziparchive" name="system_libziparchive" remote="pixel" />
   <project path="system/media" name="system_media" remote="pixel" />
   <project path="system/netd" name="system_netd" remote="pixel" />
   <project path="system/nfc" name="system_nfc" remote="pixel" />
